@@ -1,5 +1,5 @@
 # Personal blocklist of distractions while working
-# https://github.com/pugson/pihole-distractions
+# https://github.com/
 
 
 twitter.com
