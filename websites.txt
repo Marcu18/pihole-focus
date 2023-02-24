@@ -6,6 +6,7 @@ twitter.com
 m.twitter.com
 t.co
 reddit.com
+https://www.reddit.com
 gateway.reddit.com
 gql.reddit.com
 www.reddit.com
