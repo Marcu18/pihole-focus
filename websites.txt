@@ -30,4 +30,5 @@ sc-static.net
 snap-dev.net
 snapads.com
 snapchat.com
+https://www.snapchat.com
 snapkit.com
